@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="inventory-service" target="17" />
+      <module name="inventory-service.main" target="17" />
+      <module name="inventory-service.test" target="17" />
+      <module name="orchestrator-service" target="17" />
+      <module name="orchestrator-service.main" target="17" />
+      <module name="orchestrator-service.test" target="17" />
+      <module name="order-service" target="17" />
+      <module name="order-service.main" target="17" />
+      <module name="order-service.test" target="17" />
+      <module name="payment-service" target="17" />
+      <module name="payment-service.main" target="17" />
+      <module name="payment-service.test" target="17" />
+      <module name="product-validation-service" target="17" />
+      <module name="product-validation-service.main" target="17" />
+      <module name="product-validation-service.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
