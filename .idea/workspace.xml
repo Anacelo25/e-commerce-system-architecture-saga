@@ -4,7 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f413f9-7c61-47e8-98ff-3401c5153e59" name="Changes" comment="" />
+    <list default="true" id="51f413f9-7c61-47e8-98ff-3401c5153e59" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/inventory-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/inventory-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/inventory-service.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/inventory-service.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/inventory-service.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/inventory-service.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/orchestrator-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/orchestrator-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/orchestrator-service.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/orchestrator-service.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/orchestrator-service.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/orchestrator-service.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/order-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/order-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/order-service.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/order-service.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/order-service.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/order-service.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/payment-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/payment-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/payment-service.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/payment-service.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/payment-service.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/payment-service.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/product-validation-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/product-validation-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/product-validation-service.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/product-validation-service.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/7.5/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/7.5/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/7.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/7.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/7.5/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/7.5/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/7.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/7.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/7.5/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/7.5/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/7.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/7.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/7.5/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/7.5/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/7.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/7.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/7.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product-validation-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/build/classes/java/main/br/com/microservices/orchestrated/productvalidationservice/ProductValidationServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/build/resources/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-validation-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-validation-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,22 +135,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Docker.docker-compose.yml.product-db: Compose Deployment.executor": "Run",
-    "Gradle.product-validation-service [:br.com.microservices.orchestrated.productvalidationservice.ProductValidationServiceApplication.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/media/marcelo/5025-4A1A/e-commerce-system-architecture-saga",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Docker.docker-compose.yml.product-db: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.product-validation-service [:br.com.microservices.orchestrated.productvalidationservice.ProductValidationServiceApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;desenvolvimento&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/marcelo/5025-4A1A/e-commerce-system-architecture-saga&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ProductValidationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.microservices.orchestrated.productvalidationservice.ProductValidationServiceApplication" />
