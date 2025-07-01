@@ -1,17 +1,2 @@
 server:
   port: 8091
-
-spring:
-  datasource:
-    driver-class-name: org.postgresql.Driver
-    url: jdbc:postgres://${DB_HOST:127.0.0.1}:${DB_PORT:5433}/${DB_NAME:payment-db}?createDatabaseIfNotExist=true&timeZone=UTC
-    username: ${DB_USER:postgres}
-    password: ${DB_PASSWORD:postgres}
-
-
-  jpa:
-    hibernate:
-      ddl-auto: create-drop    # data definition languenge -- or lingyagem de difinição de dados
-    properties:
-      hibernate:
-        dialect: org.hibetnate.dialect.PostgreSQLDialect
